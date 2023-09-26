@@ -1,0 +1,19 @@
+
+.myh1{
+    text-align: center;
+    text-decoration: underline;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: olive;
+}
+
+#appointment{
+    background-image: url(../img/red.jpg);
+   
+}
+.right{
+    float: right;
+}
+
+.form-control{
+    margin-bottom: 15px;
+}
