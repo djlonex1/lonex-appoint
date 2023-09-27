@@ -1,19 +1,35 @@
-
-.myh1{
+.myh1 {
     text-align: center;
     text-decoration: underline;
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: olive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
 }
 
-#appointment{
+#appointment {
     background-image: url(../img/red.jpg);
+
+}
+#image{
    
 }
-.right{
-    float: right;
-}
 
-.form-control{
+.form-control {
     margin-bottom: 15px;
+}
+.success-text{
+   padding-left: 300px; 
+   font-size: 50px;
+   color: black;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+   
+}
+.input-group-append {
+    cursor: pointer;
+  }
+.displayFormat{
+    display: none;
+    background-image: url(../img/sculpture-ladder-modern-art-child.jpg);
+    background-repeat: no-repeat;
 }
