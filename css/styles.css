@@ -10,7 +10,7 @@
 
 }
 #image{
-   
+    display: none;
 }
 
 .form-control {
@@ -29,7 +29,7 @@
     cursor: pointer;
   }
 .displayFormat{
-    display: none;
+   
     background-image: url(../img/sculpture-ladder-modern-art-child.jpg);
     background-repeat: no-repeat;
 }
